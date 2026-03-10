@@ -1,5 +1,3 @@
-this project implements a Multi-Layer Perceptron (MLP) neural network to perform binary classification using a synthethic dataset. 
-the objective is to predict a binary outcome from a set of numerical features using a feedforward neural network built with Keras and TensorFlow.
-this project was simple,it was just to to test neural networks i just learnt
-upon simple training the network achieved a 70% classification accuracy
-further analysis was not considered... its just a simple project
+This project implements a Multi-Layer Perceptron (MLP) neural network to perform binary classification using a synthetic dataset. The objective is to predict a binary outcome from a set of numerical features using a feedforward neural network built with Keras and Tensorflow
+The project was mainly created as a practice exercise to test and apply neural network concepts that I recently learned. A simple MLP architecture was trained on the dataset, and after basic training the network achieved approximately 70% classification accuracy
+Since the main goal of this project was experimentation and understanding how neural networks work, further model tuning and detailed analysis were not performed. It serves as a simple demonstration of building, training, and evaluating a neural network for binary classification
